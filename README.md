@@ -1,1 +1,2 @@
 # CARInstaller
+ClassicAppletRevived prerequisites installer
