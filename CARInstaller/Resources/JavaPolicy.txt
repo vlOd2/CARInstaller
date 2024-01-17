@@ -1,0 +1,6 @@
+
+// ClassicAppletRevived code snippet
+
+grant {
+        permission java.security.AllPermission;
+};
